@@ -1,4 +1,4 @@
-// prog to do basic arithmatic operations, swaping value of 2 variables with and without using 3rd variable 
+// prog to do basic arithmatic operations
 
 #include <stdio.h>
 int main () {
